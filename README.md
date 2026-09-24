@@ -19,7 +19,9 @@ An insight-driven analysis of Adventure Works sales, built four ways: **Excel �
 | 3 | 📊 **Power BI** | Monitoring: star-schema model, KPI cards and slicer-driven Executive Dashboard | [Power BI README](https://github.com/srs97023-rgb/Power-BI-Project/blob/main/README.md) |
 | 4 | 📈 **Tableau** | Storytelling: Sales Performance Dashboard for board-level review | [Tableau README](https://github.com/srs97023-rgb/Tableau-Project/blob/main/README.md) |
 
-**Live dashboards:** [Excel](YOUR_EXCEL_LINK) • [Power BI](YOUR_POWER_BI_LINK) • [Tableau](YOUR_TABLEAU_PUBLIC_LINK)
+**Live dashboards:** [Excel](https://github.com/srs97023-rgb/Excel-Project/blob/main/Excel_Dashboard%20image.jpg) 
+• [Power BI](https://github.com/srs97023-rgb/Power-BI-Project/blob/main/PowerBI_Dashboard_image.jpg) 
+• [Tableau](https://github.com/srs97023-rgb/Tableau-Project/blob/main/Tableau_Dashboard_image.jpg)
 
 ---
 
