@@ -6,6 +6,7 @@ An insight-driven analysis of Adventure Works sales, built four ways: **Excel �
 **$29.36M revenue • 60,398 order lines • 10 sales regions • 18,000+ customers • 41.1% profit margin**
 
 ![Project Overview](YOUR_OVERVIEW_IMAGE_LINK)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c2067c55-200e-4fc8-9779-2cec7ea29c5f" />
 
 ---
 
@@ -13,10 +14,10 @@ An insight-driven analysis of Adventure Works sales, built four ways: **Excel �
 
 | Step | Tool | Role in the project | Details |
 |---|---|---|---|
-| 1 | 📗 **Excel** | Exploratory audit: pivot tables, KPIs and an interactive dashboard | [Excel README](./Excel/README.md) |
-| 2 | 🗄️ **SQL (MySQL)** | Data engineering: merge tables, build a fiscal calendar, model revenue, cost and profit | [SQL README](./SQL/README.md) |
-| 3 | 📊 **Power BI** | Monitoring: star-schema model, KPI cards and slicer-driven Executive Dashboard | [Power BI README](./PowerBI/README.md) |
-| 4 | 📈 **Tableau** | Storytelling: Sales Performance Dashboard for board-level review | [Tableau README](./Tableau/README.md) |
+| 1 | 📗 **Excel** | Exploratory audit: pivot tables, KPIs and an interactive dashboard | [Excel README](https://github.com/srs97023-rgb/Excel-Project/blob/main/README.md) |
+| 2 | 🗄️ **SQL (MySQL)** | Data engineering: merge tables, build a fiscal calendar, model revenue, cost and profit | [SQL README](https://github.com/srs97023-rgb/SQL-Project/blob/main/README.md) |
+| 3 | 📊 **Power BI** | Monitoring: star-schema model, KPI cards and slicer-driven Executive Dashboard | [Power BI README](https://github.com/srs97023-rgb/Power-BI-Project/blob/main/README.md) |
+| 4 | 📈 **Tableau** | Storytelling: Sales Performance Dashboard for board-level review | [Tableau README](https://github.com/srs97023-rgb/Tableau-Project/blob/main/README.md) |
 
 **Live dashboards:** [Excel](YOUR_EXCEL_LINK) • [Power BI](YOUR_POWER_BI_LINK) • [Tableau](YOUR_TABLEAU_PUBLIC_LINK)
 
