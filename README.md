@@ -100,7 +100,6 @@ adventure-works-analytics/
     └── Adventure_Works_Executive_Analytics_Presentation.pptx
 ```
 
-> The Excel workbook is about 44 MB, so it is shared through the Drive link above rather than uploaded here.
 
 ## 🧠 Skills Demonstrated
 
